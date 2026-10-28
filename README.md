@@ -1,4 +1,4 @@
-# Image Filter Demo
+# Interactive Image Filtering Application
 
 **University group project**
 Python · Streamlit · OpenCV · NumPy · Pillow
